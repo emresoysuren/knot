@@ -1,0 +1,19 @@
+name: knot
+description: "Knot, a Flutter UI library, simplifies responsive app development across various screen sizes by handling widget content layout."
+version: 0.0.1
+repository: https://github.com/emresoysuren/knot
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
